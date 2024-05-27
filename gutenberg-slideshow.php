@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Gutenberg Slideshow
+ * Plugin Name: Gutenberg Posts Slideshow project for rtcamp 
  * Description: A Gutenberg block that fetches and displays a slideshow of posts.
  * Version: 1.0.0
- * Author: Soham
+ * Author: Soham Banerjee
  */
 
 function gutenberg_slideshow_block_init() {
