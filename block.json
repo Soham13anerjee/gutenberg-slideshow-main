@@ -1,0 +1,25 @@
+{
+	"apiVersion": 1,
+	"name": "gutenberg-slideshow/block",
+	"title": "Gutenberg Slideshow",
+	"category": "widgets",
+	"icon": "images-alt2",
+	"description": "A slideshow block that fetches and displays the latest posts.",
+	"supports": { 
+	  "html": false
+	},
+	"attributes": {
+	  "autoplay": {
+		"type": "boolean",
+		"default": false
+	 },
+	  "url": {
+		"type": "string",
+		"default": "https://wptavern.com"
+    }
+	},
+	"editorScript": "file:./src/index.js",
+	"editorStyle": "file:./src/editor.scss",
+	"style": "file:./src/style.scss"
+}
+  
