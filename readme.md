@@ -37,4 +37,4 @@ Thank you. Enjoy using the plugin.
 Soham Banerjee
 for any problems
 Mail to: sohambanerg@gmail.com 
-Linkedin: ![link](https://www.linkedin.com/in/soham13anerjee/)
+Linkedin: [link](https://www.linkedin.com/in/soham13anerjee/)
