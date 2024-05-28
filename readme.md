@@ -27,7 +27,7 @@ to setup this plugin in any wordpress site follow this following steps :
 7. from wp-admin panel in plugins sections activate the corresponding plugin if it is deactivated.
 8. open gutenberg editor
 9. press three dots and add after
-10. + to add this plugin from widgets section
+10. '+' to add this plugin from widgets section
 11. you can see preview of this plugin with wptavern.com's posts api endpoint as the default site.
 12. select this block and open block settings from top righthand corner of the screen and type in correspoing api url and refresh page to update api url to fetch posts from a different wordpress website conforming to the conditions and accessible openly.
 
