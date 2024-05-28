@@ -8,6 +8,8 @@ License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 Example block scaffolded with Create Block tool.
 
+Checkout Live site [here](https://slideshow-block-for-rtcamp.infinityfreeapp.com/)
+
 == Description ==
 
 A slideshow block that fetches and displays the latest posts.
