@@ -14,39 +14,27 @@ A slideshow block that fetches and displays the latest posts.
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+to setup this plugin in any wordpress site follow this following steps : 
 
-e.g.
+1. add this folder to wp-content/plugins manually or,
+2. go to wp admin panel -> then to plugins -> then add new plugin and choose this folder
+3. in this folder ctrl + alt + T to open terminal inside this folder and type in code . to open a code editor (VScode lets say)
+4. open terminal in vs code
+5. npm install
+6. npm run start
+7. from wp-admin panel in plugins sections activate the corresponding plugin if it is deactivated.
+8. open gutenberg editor
+9. press three dots and add after
+10. + to add this plugin from widgets section
+11. you can see preview of this plugin with wptavern.com's posts api endpoint as the default site.
+12. select this block and open block settings from top righthand corner of the screen and type in correspoing api url and refresh page to update api url to fetch posts from a different wordpress website conforming to the conditions and accessible openly.
 
-1. Upload the plugin files to the `/wp-content/plugins/gutenberg-slideshow` directory, or install the plugin through the WordPress plugins screen directly.
-1. Activate the plugin through the 'Plugins' screen in WordPress
+![Block settings image](block-settings.png)
+13. toggle autoplay on/off button to switch between autoplay on and manual swiping.
 
 
-== Frequently Asked Questions ==
-
-= A question that someone might have =
-
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
-
-== Screenshots ==
-
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
-
-== Changelog ==
-
-= 0.1.0 =
-* Release
-
-== Arbitrary section ==
-
-You may provide arbitrary sections, in the same format as the ones above. This may be of use for extremely complicated
-plugins where more information needs to be conveyed that doesn't fit into the categories of "description" or
-"installation." Arbitrary sections will be shown below the built-in sections outlined above.
+Thank you. Enjoy using the plugin.
+Soham Banerjee
+for any problems
+Mail to: sohambanerg@gmail.com 
+Linkedin: ![link](https://www.linkedin.com/in/soham13anerjee/)
