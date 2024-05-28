@@ -33,8 +33,8 @@ to setup this plugin in any wordpress site follow this following steps :
 13. toggle autoplay on/off button to switch between autoplay on and manual swiping.
 
 
-Thank you. Enjoy using the plugin.
-Soham Banerjee
-for any problems
-Mail to: sohambanerg@gmail.com 
+Thank you. Enjoy using the plugin.  
+Soham Banerjee  
+for any problems  
+Mail to: sohambanerg@gmail.com   
 Linkedin: [link](https://www.linkedin.com/in/soham13anerjee/)
