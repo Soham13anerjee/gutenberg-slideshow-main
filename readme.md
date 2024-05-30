@@ -1,18 +1,18 @@
-=== Gutenberg Slideshow ===
-Contributors:      Soham Banerjee
-Tags:              block
-Tested up to:      6.1
-Stable tag:        0.1.0
-License:           GPL-2.0-or-later
-License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+=== Gutenberg Slideshow ===  
+Contributors:      Soham Banerjee  
+Tags:              block  
+Tested up to:      6.1  
+Stable tag:        0.1.0  
+License:           GPL-2.0-or-later  
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html  
 
-Example block scaffolded with Create Block tool.
+Example block scaffolded with Create Block tool.  
 
-Checkout Live site [here](https://slideshow-block-for-rtcamp.infinityfreeapp.com/)
+Checkout Live site [here](https://slideshow-block-for-rtcamp.infinityfreeapp.com/)  
 
-== Description ==
+== Description ==  
 
-A slideshow block that fetches and displays the latest posts.
+A slideshow block that fetches and displays the latest posts.  
 
 == Installation ==
 
